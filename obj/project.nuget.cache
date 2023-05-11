@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2niab6UMGUV2bmO6cOtn7GJCpsYDoqe1OlEJgviE/qJBEIsWsJt+AxLnC7/ryHQ9CKxujePNoy+WtSi85MccCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\michael.lewellen\\Desktop\\code\\The_Defense_of_Consolas\\The_Defense_of_Consolas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\michael.lewellen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
